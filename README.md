@@ -32,6 +32,6 @@ their accounts, create job postings, and view candidates applications.
 3. Start up the server: *node index.js*
 4. View in browser at *http://localhost:3000*
 
-## Contributors(from MNNIT for Avishkar-Webster-2020) 
+## Contributors
 * [Nilotpal Das](https://www.linkedin.com/in/nilotpal-das-842b071a1/)
 * [Himanshu Jain](http://www.linkedin.com/in/himanshujain0457)
