@@ -34,4 +34,4 @@ their accounts, create job postings, and view candidates applications.
 
 ## Contributors(from MNNIT for Avishkar-Webster-2020) 
 * [Nilotpal Das](https://www.linkedin.com/in/nilotpal-das-842b071a1/)
-* [Nitin Gangwar](https://www.linkedin.com/in/nitin-gangwar-4253b71b7/)
+* [Himanshu Jain](http://www.linkedin.com/in/himanshujain0457)
