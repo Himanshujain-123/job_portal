@@ -33,5 +33,4 @@ their accounts, create job postings, and view candidates applications.
 4. View in browser at *http://localhost:3000*
 
 ## Contributors
-* [Nilotpal Das](https://www.linkedin.com/in/nilotpal-das-842b071a1/)
 * [Himanshu Jain](http://www.linkedin.com/in/himanshujain0457)
